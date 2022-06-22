@@ -4,7 +4,7 @@ future==0.18.2
 gym==0.17.0
 kiwisolver==1.1.0
 matplotlib==3.2.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 -e git+git@github.com:jtbish/piecewise@b116dd590bd38b816edaf977298f5a950c5376a2#egg=piecewise
 Pillow==7.1.0
